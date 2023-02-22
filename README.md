@@ -1,2 +1,4 @@
 # Programming-Fundamentals-Python-09.22
-Course
+Fundamentals SoftUni course for python.
+
+![img.png](img.png)
